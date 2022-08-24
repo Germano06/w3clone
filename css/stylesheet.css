@@ -1,84 +1,84 @@
 nav{
-    height:80px;
-    color: black;
-    }
+    height:5rem;
+}
 
 .login{
-    width:120px;
-    border-radius:20px;
-    font-weight: 600;
-    background:rgb(6,138,63);
-    color:white;
-    border:1px solid white;
-    text-align:center;
-}
-.login:hover{
-    background-color:green;
-}
-    
-.website-url{
-    width:120px;
-    font-weight: 600;
-    color:black;
-    border:1px solid white;
-    border-radius:20px;
-    text-align:center;
-}
-.website-url:hover{
-    background-color:green;
-}
-    
-.certificate{
-    width:120px;
-    border-radius:20px;
-    font-weight: 600;
-    background:pink;
-    color:black;
-    border:1px solid white;
-    text-align:center;
-}
-.certificate:hover{
-    background-color:green;
-}
-.pro
-{
-    
-    width:120px;
-    font-weight: 600;
-    color:black;
-    border:1px solid white;
-    border-radius:20px;
-    text-align:left;
-}
-.pro:hover{
-    background-color:green;
+width:120px;
+border-radius:20px;
+background:rgb(6,138,63);
+color:white;
+border:1px solid white;
+text-align:center;
 }
 
-    
- .logo{
-    width:45px;
-    position:relative;
-    left:16px;
-    top:3px;
+.login:hover{
+background-color:green;
 }
+
+.website-url{
+width:120px;
+color:white;
+border:1px solid white;
+border-radius:20px;
+text-align:center;
+}
+
+.website-url:hover{
+background-color:green;
+}
+
+.certificate{
+width:120px;
+border-radius:20px;
+background:rgb(243,132,65);
+color:white;
+border:1px solid white;
+text-align:center;
+}
+
+.certificate:hover{
+background-color:green;
+}
+
+.logo{
+width:45px;
+position:relative;
+left:16px;
+top:3px;
+}
+
 .ul-list-one{
-    
-    position:relative;
-    left:25px;
+position:relative;
+left:25px;
 }
+
 .ul-list-one{
-    
-    margin:0px;
+margin:0px;
 }
+
 .ul-list-one li{
-        font-weight:500;
-        font-size:20px;
-        
+    font-weight:500;
+    font-size:20px;
+    
 }
+
 .ul-list-one li:hover{
-    background-color:green;
-    color:white;
+background-color:green;
+color:white;
 }
+
 .ul-list-two li a img:hover{
-    color:green;
+color:green;
+}
+
+.ul-list-three{
+    position: relative;
+}
+
+.ul-list-three li a:hover{
+    background-color: grey;
+}
+
+.sidebar{
+    background-color: rgba(220, 220, 220, 0.541);
 }
